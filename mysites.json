@@ -3,12 +3,9 @@
   "rules": [
     {
       "domain_suffix": [
-        "example.com",
-        "example1.com",
-        "hellow.example2.net"
-        "ug.link"
-        "ugnas.com"
-        "xn--ngstr-lra8j.com"
+        "ug.link",
+        "ugnas.com",
+        "xn--ngstr-lra8j.com",
         "n4avpn.gmcc.net"
       ]
     }
